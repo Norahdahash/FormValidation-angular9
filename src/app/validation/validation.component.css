@@ -1,0 +1,21 @@
+.correct {
+    border:1px outset green;
+}
+.container {
+    max-width: 500px;
+    margin: auto;}
+   
+ button{
+   
+  align-items: center;    
+  width: 100px; margin-left: 40%;
+  margin-top: 10px;
+ }
+  h1{
+    margin-top: 10px;
+    color:white;
+    background-image: url('src/assets/img/elmm.png');
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    }
+  
